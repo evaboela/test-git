@@ -1,2 +1,2 @@
-a <- 2
-print(a)
+# Advanced R course
+
